@@ -1,0 +1,64 @@
+{
+    "siteLogoURL": "./static/siteLogo.jpg",
+    "introduction": "INTRODUCING",
+    "bannerImgURL": "./static/banner-background.jpg",
+    "siteName": "TinyLove",
+    "enticingStatement": "Enticing statement goes here.",
+    "bannerText": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
+
+    "appStoreSigns": [
+        "./static/googleplay.png",
+        "./static/apple.png"
+    ],
+
+    "simpleSections": [
+        {
+            "sectionTitle": "Section Title",
+            "sectionHeading": "Heading of this section",
+            "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+            "sectionLogoURL": "fa fa-bar-chart"
+        },
+        {
+            "sectionTitle": "Section Title",
+            "sectionHeading": "Heading of this section",
+            "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+            "sectionLogoURL": "fa fa-user"
+        },
+        {
+            "sectionTitle": "Section Title",
+            "sectionHeading": "Heading of this section",
+            "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+            "sectionLogoURL": "fa fa-file"
+        }
+    ],
+
+    "picTextSectionHeading": "See how it works",
+
+    "picTextSections": [
+        {
+            "sectionHeading": "Heading goes here",
+            "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo",
+            "sectionLogoURL": "fa fa-pencil",
+            "pictureURL": "./static/demo1.png"
+        },
+        {
+            "sectionHeading": "Heading goes here",
+            "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo",
+            "sectionLogoURL": "fa fa-bars",
+            "pictureURL": "./static/demo2.png"
+        },
+        {
+            "sectionHeading": "Heading goes here",
+            "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo",
+            "sectionLogoURL": "fa fa-map-marker",
+            "pictureURL": "./static/demo3.png"
+        }
+    ],
+
+    "bigText": "It's the next generation of location based networking",
+    "formHeading": "Get in touch",
+    "name": "Name: *",
+    "emailAddress": "Email Address: *",
+    "subject": "Subject: *",
+    "message": "Message: *"
+}
