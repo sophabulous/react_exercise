@@ -1,14 +1,14 @@
 {
-    "siteLogoURL": "./static/siteLogo.jpg",
+    "siteLogoURL": "./src/assets/siteLogo.jpg",
     "introduction": "INTRODUCING",
-    "bannerImgURL": "./static/banner-background.jpg",
+    "bannerImgURL": "./src/assets/banner-background.jpg",
     "siteName": "TinyLove",
     "enticingStatement": "Enticing statement goes here.",
     "bannerText": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.",
 
     "appStoreSigns": [
-        "./static/googleplay.png",
-        "./static/apple.png"
+        "./src/assets/googleplay.png",
+        "./src/assets/apple.png"
     ],
 
     "simpleSections": [
@@ -39,19 +39,19 @@
             "sectionHeading": "Heading goes here",
             "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo",
             "sectionLogoURL": "fa fa-pencil",
-            "pictureURL": "./static/demo1.png"
+            "pictureURL": "./src/assets/demo1.png"
         },
         {
             "sectionHeading": "Heading goes here",
             "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo",
             "sectionLogoURL": "fa fa-bars",
-            "pictureURL": "./static/demo2.png"
+            "pictureURL": "./src/assets/demo2.png"
         },
         {
             "sectionHeading": "Heading goes here",
             "sectionBody": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo",
             "sectionLogoURL": "fa fa-map-marker",
-            "pictureURL": "./static/demo3.png"
+            "pictureURL": "./src/assets/demo3.png"
         }
     ],
 
